@@ -1,0 +1,14 @@
+footer {
+	margin-top: 40%;
+	text-align: left;
+}
+
+img {
+	height: 200px;
+	width: 300px;
+	overflow: hidden;
+}
+
+#title {
+	text-align: center;
+}
