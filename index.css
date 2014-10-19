@@ -1,6 +1,11 @@
+body {
+	background-color: #000;
+}
+
 footer {
 	margin-top: 40%;
 	text-align: left;
+	color: #fff;
 }
 
 img {
@@ -9,6 +14,12 @@ img {
 	overflow: hidden;
 }
 
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
 #title {
 	text-align: center;
+	color: #fff;
 }
